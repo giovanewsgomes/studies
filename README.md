@@ -15,4 +15,14 @@ Relação das aulas 08/04/2021: <br>
 * [Aula 08/04 - Parte 4](https://www.youtube.com/watch?v=MeClDQ8rOfA) <br>
 * [Aula 08/04 - Parte 5](https://www.youtube.com/watch?v=MeClDQ8rOfA) <br>
 
+
+* [Aula - Clusterização](https://www.youtube.com/watch?v=zP9mI6rJVo4)  <br>
+* [Aula - Kmeans](https://www.youtube.com/watch?v=ox6KkUw4wv8)  <br>
+* [Aula - SVM](https://www.youtube.com/watch?v=6HyWgMMb7LM) <br>
+* [Aula - Arvore de decisao](https://www.youtube.com/watch?v=qRHW1jJrUjc) <br>
+* [Aula - Aprendizado - Treinamento e Avaliação](https://www.youtube.com/watch?v=UlcY_UIk6f8) <br>
+* [Aula - Regressão Logística](https://www.youtube.com/watch?v=GOTu2bs_CF4) <br>
+* [Aula - Regressão linear multipla](https://www.youtube.com/watch?v=gTmJcUs38s4) <br>
+* [Aula - Modelagem Estatística](https://www.youtube.com/watch?v=pMbcD3Ycn-A) <br>
+
 [Simpaim](https://sipaim.org/)
